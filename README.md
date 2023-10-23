@@ -25,3 +25,5 @@ For each row, it will show the wins as white for each player
 As this example shows:
 Ian Nepomniachtchi (the first place) had a 5 draws with white and 1 win. and 3 wins with black plus 4 draws
 The L on Ding Liren (the second place) shows that he lost with white versus Ian Nepomniachtchi
+
+Taken from [FIDE Website](https://ratings.fide.com/view_games.phtml?event=294151)
